@@ -1,0 +1,1007 @@
+Preprocessing:
+MRSDALLOWAYSAIDSHEWOULDBUYTHEFLOWERSHERSELFFORLUCYHADHERWORKCUTOUTFORHERTHEDOOR
+SWOULDBETAKENOFFTHEIRHINGESRUMPELMAYERSMENWERECOMINGANDTHENTHOUGHTCLARISSADALLO
+WAYWHATAMORNINGFRESHASIFISSUEDTOCHILDRENONABEACHWHATALARKWHATAPLUNGEFORSOITHADA
+LWAYSSEEMEDTOHERWHENWITHALITTLESQUEAKOFTHEHINGESWHICHSHECOULDHEARNOWSHEHADBURST
+OPENTHEFRENCHWINDOWSANDPLUNGEDATBOURTONINTOTHEOPENAIRHOWFRESHHOWCALMSTILLERTHAN
+THISOFCOURSETHEAIRWASINTHEEARLYMORNINGLIKETHEFLAPOFAWAVETHEKISSOFAWAVECHILLANDS
+HARPANDYETFORAGIRLOFEIGHTEENASSHETHENWASSOLEMNFEELINGASSHEDIDSTANDINGTHEREATTHE
+OPENWINDOWTHATSOMETHINGAWFULWASABOUTTOHAPPENLOOKINGATTHEFLOWERSATTHETREESWITHTH
+ESMOKEWINDINGOFFTHEMANDTHEROOKSRISINGFALLINGSTANDINGANDLOOKINGUNTILPETERWALSHSA
+IDMUSINGAMONGTHEVEGETABLESWASTHATITIPREFERMENTOCAULIFLOWERSWASTHATIT
+
+Substitution:
+HZJJIYTOSOMDFUUKCMNUCYLBQMHSJRCGRMIYPRZSAZTQTDCMXGYGLUMRSCFVHGKGPBWUZUMRPVSOTAI
+KRWLRLOMTWYSYTRWLCMZXPVVGAGFFRBVDHIPKZFUEJKSCJOFEDVXGVQBHABHSTGXZOKCGZVASWROWQA
+NSTEYGBNUONBWYLRIWNPRYQSQSOISOYATZDTUXMAWNWPSLHTNZVBRRIESWDOHLUXLFBMWUZFWIPVOOF
+XNSTAJKMZMDPCVPWIYWIEZZPNTIPHZPXCLWVSFLBUMHEBUPXIYAXPJNMPWUHRVPFDEGRAYKPNLBQFGE
+TBVFOPVLZRVCDKWYIANKVVUVTHVGAROEGALJOWEOVGWTDSCAJZRAMPFCNEMSDVCHHMCENBZRTRZTDOB
+EMUJGAKFAZFMTDSOTWIRKDVKNMRIRHMAZWZZFBTZQMGPEBZOATRROVDVZPRSIOGCQFIRNZKYOTYINZG
+VLWBRFYGVZNBZACWFWTRVABPKKMAISOVSEMQEOVAJUTRUNBSSWNZXSNAYKLVLSPOBONZXLCMIKIGBHA
+CDPSIZFYWNZPNBSKASEMUEYVEWATJISWPCFYFFZVXGKVYWOGWBRFFKZZNCUERZSWHHSJFIWZANOBUBH
+AGAZPQNAILZTOBNFPVSXFZULCMIUWXAREGWYLRRDGQEMAGINZWBRFZUDJWBOVTCNPWZAJFVJRICYPFI
+IZAIDNZXSHWEMBUMVAUSEFNCWNERYBUITEHWAWQWWMUVTBBKAQZWQQANWMANGAGPAPWH
+
+Padding:
+H Z J J 
+I Y T O 
+S O M D 
+F U U K 
+
+C M N U 
+C Y L B 
+Q M H S 
+J R C G 
+
+R M I Y 
+P R Z S 
+A Z T Q 
+T D C M 
+
+X G Y G 
+L U M R 
+S C F V 
+H G K G 
+
+P B W U 
+Z U M R 
+P V S O 
+T A I K 
+
+R W L R 
+L O M T 
+W Y S Y 
+T R W L 
+
+C M Z X 
+P V V G 
+A G F F 
+R B V D 
+
+H I P K 
+Z F U E 
+J K S C 
+J O F E 
+
+D V X G 
+V Q B H 
+A B H S 
+T G X Z 
+
+O K C G 
+Z V A S 
+W R O W 
+Q A N S 
+
+T E Y G 
+B N U O 
+N B W Y 
+L R I W 
+
+N P R Y 
+Q S Q S 
+O I S O 
+Y A T Z 
+
+D T U X 
+M A W N 
+W P S L 
+H T N Z 
+
+V B R R 
+I E S W 
+D O H L 
+U X L F 
+
+B M W U 
+Z F W I 
+P V O O 
+F X N S 
+
+T A J K 
+M Z M D 
+P C V P 
+W I Y W 
+
+I E Z Z 
+P N T I 
+P H Z P 
+X C L W 
+
+V S F L 
+B U M H 
+E B U P 
+X I Y A 
+
+X P J N 
+M P W U 
+H R V P 
+F D E G 
+
+R A Y K 
+P N L B 
+Q F G E 
+T B V F 
+
+O P V L 
+Z R V C 
+D K W Y 
+I A N K 
+
+V V U V 
+T H V G 
+A R O E 
+G A L J 
+
+O W E O 
+V G W T 
+D S C A 
+J Z R A 
+
+M P F C 
+N E M S 
+D V C H 
+H M C E 
+
+N B Z R 
+T R Z T 
+D O B E 
+M U J G 
+
+A K F A 
+Z F M T 
+D S O T 
+W I R K 
+
+D V K N 
+M R I R 
+H M A Z 
+W Z Z F 
+
+B T Z Q 
+M G P E 
+B Z O A 
+T R R O 
+
+V D V Z 
+P R S I 
+O G C Q 
+F I R N 
+
+Z K Y O 
+T Y I N 
+Z G V L 
+W B R F 
+
+Y G V Z 
+N B Z A 
+C W F W 
+T R V A 
+
+B P K K 
+M A I S 
+O V S E 
+M Q E O 
+
+V A J U 
+T R U N 
+B S S W 
+N Z X S 
+
+N A Y K 
+L V L S 
+P O B O 
+N Z X L 
+
+C M I K 
+I G B H 
+A C D P 
+S I Z F 
+
+Y W N Z 
+P N B S 
+K A S E 
+M U E Y 
+
+V E W A 
+T J I S 
+W P C F 
+Y F F Z 
+
+V X G K 
+V Y W O 
+G W B R 
+F F K Z 
+
+Z N C U 
+E R Z S 
+W H H S 
+J F I W 
+
+Z A N O 
+B U B H 
+A G A Z 
+P Q N A 
+
+I L Z T 
+O B N F 
+P V S X 
+F Z U L 
+
+C M I U 
+W X A R 
+E G W Y 
+L R R D 
+
+G Q E M 
+A G I N 
+Z W B R 
+F Z U D 
+
+J W B O 
+V T C N 
+P W Z A 
+J F V J 
+
+R I C Y 
+P F I I 
+Z A I D 
+N Z X S 
+
+H W E M 
+B U M V 
+A U S E 
+F N C W 
+
+N E R Y 
+B U I T 
+E H W A 
+W Q W W 
+
+M U V T 
+B B K A 
+Q Z W Q 
+Q A N W 
+
+M A N G 
+A G P A 
+P W H A 
+A A A A
+
+ShiftRows:
+H Z J J 
+Y T O I 
+M D S O 
+K F U U 
+
+C M N U 
+Y L B C 
+H S Q M 
+G J R C 
+
+R M I Y 
+R Z S P 
+T Q A Z 
+M T D C 
+
+X G Y G 
+U M R L 
+F V S C 
+G H G K 
+
+P B W U 
+U M R Z 
+S O P V 
+K T A I 
+
+R W L R 
+O M T L 
+S Y W Y 
+L T R W 
+
+C M Z X 
+V V G P 
+F F A G 
+D R B V 
+
+H I P K 
+F U E Z 
+S C J K 
+E J O F 
+
+D V X G 
+Q B H V 
+H S A B 
+Z T G X 
+
+O K C G 
+V A S Z 
+O W W R 
+S Q A N 
+
+T E Y G 
+N U O B 
+W Y N B 
+W L R I 
+
+N P R Y 
+S Q S Q 
+S O O I 
+Z Y A T 
+
+D T U X 
+A W N M 
+S L W P 
+Z H T N 
+
+V B R R 
+E S W I 
+H L D O 
+F U X L 
+
+B M W U 
+F W I Z 
+O O P V 
+S F X N 
+
+T A J K 
+Z M D M 
+V P P C 
+W W I Y 
+
+I E Z Z 
+N T I P 
+Z P P H 
+W X C L 
+
+V S F L 
+U M H B 
+U P E B 
+A X I Y 
+
+X P J N 
+P W U M 
+V P H R 
+G F D E 
+
+R A Y K 
+N L B P 
+G E Q F 
+F T B V 
+
+O P V L 
+R V C Z 
+W Y D K 
+K I A N 
+
+V V U V 
+H V G T 
+O E A R 
+J G A L 
+
+O W E O 
+G W T V 
+C A D S 
+A J Z R 
+
+M P F C 
+E M S N 
+C H D V 
+E H M C 
+
+N B Z R 
+R Z T T 
+B E D O 
+G M U J 
+
+A K F A 
+F M T Z 
+O T D S 
+K W I R 
+
+D V K N 
+R I R M 
+A Z H M 
+F W Z Z 
+
+B T Z Q 
+G P E M 
+O A B Z 
+O T R R 
+
+V D V Z 
+R S I P 
+C Q O G 
+N F I R 
+
+Z K Y O 
+Y I N T 
+V L Z G 
+F W B R 
+
+Y G V Z 
+B Z A N 
+F W C W 
+A T R V 
+
+B P K K 
+A I S M 
+S E O V 
+O M Q E 
+
+V A J U 
+R U N T 
+S W B S 
+S N Z X 
+
+N A Y K 
+V L S L 
+B O P O 
+L N Z X 
+
+C M I K 
+G B H I 
+D P A C 
+F S I Z 
+
+Y W N Z 
+N B S P 
+S E K A 
+Y M U E 
+
+V E W A 
+J I S T 
+C F W P 
+Z Y F F 
+
+V X G K 
+Y W O V 
+B R G W 
+Z F F K 
+
+Z N C U 
+R Z S E 
+H S W H 
+W J F I 
+
+Z A N O 
+U B H B 
+A Z A G 
+A P Q N 
+
+I L Z T 
+B N F O 
+S X P V 
+L F Z U 
+
+C M I U 
+X A R W 
+W Y E G 
+D L R R 
+
+G Q E M 
+G I N A 
+B R Z W 
+D F Z U 
+
+J W B O 
+T C N V 
+Z A P W 
+J J F V 
+
+R I C Y 
+F I I P 
+I D Z A 
+S N Z X 
+
+H W E M 
+U M V B 
+S E A U 
+W F N C 
+
+N E R Y 
+U I T B 
+W A E H 
+W W Q W 
+
+M U V T 
+B K A B 
+W Q Q Z 
+W Q A N 
+
+M A N G 
+G P A A 
+H A P W 
+A A A A
+
+Parity:
+48 5a ca ca 
+59 d4 cf c9 
+4d 44 53 cf 
+4b c6 55 55 
+
+c3 4d 4e 55 
+59 cc 42 c3 
+48 53 d1 4d 
+47 ca d2 c3 
+
+d2 4d c9 59 
+d2 5a 53 50 
+d4 d1 41 5a 
+4d d4 44 c3 
+
+d8 47 59 47 
+55 4d d2 cc 
+c6 56 53 c3 
+47 48 47 4b 
+
+50 42 d7 55 
+55 4d d2 5a 
+53 cf 50 56 
+4b d4 41 c9 
+
+d2 d7 cc d2 
+cf 4d d4 cc 
+53 59 d7 59 
+cc d4 d2 d7 
+
+c3 4d 5a d8 
+56 56 47 50 
+c6 c6 41 47 
+44 d2 42 56 
+
+48 c9 50 4b 
+c6 55 c5 5a 
+53 c3 ca 4b 
+c5 ca cf c6 
+
+44 56 d8 47 
+d1 42 48 56 
+48 53 41 42 
+5a d4 47 d8 
+
+cf 4b c3 47 
+56 41 53 5a 
+cf d7 d7 d2 
+53 d1 41 4e 
+
+d4 c5 59 47 
+4e 55 cf 42 
+d7 59 4e 42 
+d7 cc d2 c9 
+
+4e 50 d2 59 
+53 d1 53 d1 
+53 cf cf c9 
+5a 59 41 d4 
+
+44 d4 55 d8 
+41 d7 4e 4d 
+53 cc d7 50 
+5a 48 d4 4e 
+
+56 42 d2 d2 
+c5 53 d7 c9 
+48 cc 44 cf 
+c6 55 d8 cc 
+
+42 4d d7 55 
+c6 d7 c9 5a 
+cf cf 50 56 
+53 c6 d8 4e 
+
+d4 41 ca 4b 
+5a 4d 44 4d 
+56 50 50 c3 
+d7 d7 c9 59 
+
+c9 c5 5a 5a 
+4e d4 c9 50 
+5a 50 50 48 
+d7 d8 c3 cc 
+
+56 53 c6 cc 
+55 4d 48 42 
+55 50 c5 42 
+41 d8 c9 59 
+
+d8 50 ca 4e 
+50 d7 55 4d 
+56 50 48 d2 
+47 c6 44 c5 
+
+d2 41 59 4b 
+4e cc 42 50 
+47 c5 d1 c6 
+c6 d4 42 56 
+
+cf 50 56 cc 
+d2 56 c3 5a 
+d7 59 44 4b 
+4b c9 41 4e 
+
+56 56 55 56 
+48 56 47 d4 
+cf c5 41 d2 
+ca 47 41 cc 
+
+cf d7 c5 cf 
+47 d7 d4 56 
+c3 41 44 53 
+41 ca 5a d2 
+
+4d 50 c6 c3 
+c5 4d 53 4e 
+c3 48 44 56 
+c5 48 4d c3 
+
+4e 42 5a d2 
+d2 5a d4 d4 
+42 c5 44 cf 
+47 4d 55 ca 
+
+41 4b c6 41 
+c6 4d d4 5a 
+cf d4 44 53 
+4b d7 c9 d2 
+
+44 56 4b 4e 
+d2 c9 d2 4d 
+41 5a 48 4d 
+c6 d7 5a 5a 
+
+42 d4 5a d1 
+47 50 c5 4d 
+cf 41 42 5a 
+cf d4 d2 d2 
+
+56 44 56 5a 
+d2 53 c9 50 
+c3 d1 cf 47 
+4e c6 c9 d2 
+
+5a 4b 59 cf 
+59 c9 4e d4 
+56 cc 5a 47 
+c6 d7 42 d2 
+
+59 47 56 5a 
+42 5a 41 4e 
+c6 d7 c3 d7 
+41 d4 d2 56 
+
+42 50 4b 4b 
+41 c9 53 4d 
+53 c5 cf 56 
+cf 4d d1 c5 
+
+56 41 ca 55 
+d2 55 4e d4 
+53 d7 42 53 
+53 4e 5a d8 
+
+4e 41 59 4b 
+56 cc 53 cc 
+42 cf 50 cf 
+cc 4e 5a d8 
+
+c3 4d c9 4b 
+47 42 48 c9 
+44 50 41 c3 
+c6 53 c9 5a 
+
+59 d7 4e 5a 
+4e 42 53 50 
+53 c5 4b 41 
+59 4d 55 c5 
+
+56 c5 d7 41 
+ca c9 53 d4 
+c3 c6 d7 50 
+5a 59 c6 c6 
+
+56 d8 47 4b 
+59 d7 cf 56 
+42 d2 47 d7 
+5a c6 c6 4b 
+
+5a 4e c3 55 
+d2 5a 53 c5 
+48 53 d7 48 
+d7 ca c6 c9 
+
+5a 41 4e cf 
+55 42 48 42 
+41 5a 41 47 
+41 50 d1 4e 
+
+c9 cc 5a d4 
+42 4e c6 cf 
+53 d8 50 56 
+cc c6 5a 55 
+
+c3 4d c9 55 
+d8 41 d2 d7 
+d7 59 c5 47 
+44 cc d2 d2 
+
+47 d1 c5 4d 
+47 c9 4e 41 
+42 d2 5a d7 
+44 c6 5a 55 
+
+ca d7 42 cf 
+d4 c3 4e 56 
+5a 41 50 d7 
+ca ca c6 56 
+
+d2 c9 c3 59 
+c6 c9 c9 50 
+c9 44 5a 41 
+53 4e 5a d8 
+
+48 d7 c5 4d 
+55 4d 56 42 
+53 c5 41 55 
+d7 c6 4e c3 
+
+4e c5 d2 59 
+55 c9 d4 42 
+d7 41 c5 48 
+d7 d7 d1 d7 
+
+4d 55 56 d4 
+42 4b 41 42 
+d7 d1 d1 5a 
+d7 d1 41 4e 
+
+4d 41 4e 47 
+47 50 41 41 
+48 41 50 d7 
+41 41 41 41 
+
+MixColumns:
+7d 51 c3 55 
+66 e3 ef 5c 
+56 57 5c 79 
+5a e9 73 e9 
+
+79 4c 59 7a 
+ee f1 70 dc 
+c3 62 d8 52 
+c1 c7 fe ec 
+
+4b 71 79 db 
+47 45 e8 d4 
+64 c9 d4 e3 
+f1 ef da 7c 
+
+d5 47 cb 49 
+64 6f 54 d1 
+d3 7e e4 cb 
+6e 42 e4 50 
+
+47 48 c9 db 
+44 46 d9 d2 
+7e ed 66 e3 
+60 f7 62 7a 
+
+6a ef e1 7e 
+6e 72 cf 6d 
+f4 4f c0 ce 
+72 c5 f3 4d 
+
+e5 74 7e 4a 
+7a 62 55 e7 
+ce e1 59 fc 
+46 f8 6c c8 
+
+57 7f f1 f5 
+ef f7 4b e4 
+7c 44 50 d6 
+dc 59 7a 5b 
+
+f2 ed 75 ee 
+7f f3 cc f5 
+eb d5 db e6 
+e1 58 f4 76 
+
+e3 53 fe fc 
+7a 7a 46 d0 
+e9 d7 e6 70 
+75 f2 58 dd 
+
+61 fb 64 c3 
+fd 48 dc cc 
+4d 6d 67 c1 
+4b db d5 40 
+
+60 5e c4 c7 
+47 fa 7f 74 
+55 ef c7 66 
+66 5c 73 40 
+
+42 55 7b 62 
+69 66 7f fc 
+4d 58 c9 e7 
+6a ec d5 f2 
+
+76 e8 41 fc 
+d9 fe 73 dd 
+52 6d fe d1 
+e0 f3 55 e8 
+
+49 f1 7d 5c 
+cc 74 76 55 
+f4 4e cd 71 
+69 58 50 6f 
+
+dc d2 da db 
+4d fc 7b d6 
+40 ce 6e 70 
+de 6b d8 e1 
+
+d6 7e 67 c0 
+6c 5e e0 ee 
+51 c2 6d d5 
+e1 7b ea 75 
+
+47 f9 43 5e 
+42 e1 cb d7 
+6a cd 5f e1 
+78 43 55 fd 
+
+4a 54 7c 5c 
+c5 d3 fc 7c 
+ed 76 c3 e8 
+fb e0 d0 dc 
+
+ec dc e7 f6 
+41 42 f7 ec 
+43 7b 64 76 
+f3 79 fc e7 
+
+74 ca f7 68 
+59 de 46 eb 
+75 f4 de d2 
+d9 76 ff c2 
+
+71 d4 63 d5 
+46 e9 59 44 
+de 58 53 72 
+f2 e7 7b 7f 
+
+ce 5c e8 fe 
+5e 6b e0 44 
+d6 c7 77 52 
+4c 7b 70 f0 
+
+c8 77 6b da 
+47 5a e1 66 
+41 55 ca 7f 
+40 65 dc db 
+
+f4 e2 c2 dd 
+70 ef 70 e1 
+d1 5e f9 c6 
+cc c3 d4 f9 
+
+57 42 7d ed 
+d7 61 70 d2 
+df d7 da d0 
+5c f1 48 75 
+
+62 61 e9 5c 
+fe e6 76 59 
+45 49 e7 77 
+c8 dc f3 66 
+
+4d d6 70 e6 
+49 63 df 77 
+ca 61 76 45 
+cb c5 d6 c0 
+
+4c 6a ea d1 
+f9 4c 5c e1 
+cb ff 5a e9 
+77 d9 75 46 
+
+cf cd 78 77 
+d4 5a 69 67 
+fe 63 65 f8 
+76 6d 7b 66 
+
+f3 63 7e e7 
+cd 45 58 f2 
+4f cf e7 5b 
+ed f7 c7 db 
+
+db 68 7d d2 
+fa c0 76 ee 
+ef df f5 fe 
+51 66 f8 57 
+
+c1 e4 45 46 
+4f c7 ca cb 
+d7 73 ee 54 
+dd dd fd d3 
+
+e8 4c 4d ce 
+e8 c6 55 5a 
+d3 da 44 71 
+45 5c 5c 75 
+
+d6 5f d9 4f 
+47 6a 53 c6 
+5d 5a 43 f1 
+ca 63 c0 63 
+
+6a fb 77 c0 
+69 4a 60 fc 
+5a d3 74 dc 
+44 7f 60 6e 
+
+70 4e 51 73 
+dd 44 d5 c4 
+ef 70 60 64 
+47 e9 71 d0 
+
+5f dd 45 f0 
+78 c6 cd ce 
+65 e1 57 75 
+55 e1 d6 ca 
+
+46 eb 79 7f 
+ea c5 c1 d5 
+7a f7 74 40 
+c1 54 4d fb 
+
+4b 4e d4 4a 
+72 7b cc cc 
+4e 47 ec d1 
+78 7b 62 d3 
+
+d0 4f ef fa 
+74 e5 67 fe 
+62 78 d2 48 
+d2 4e cc 54 
+
+7d cc f3 5d 
+4e e8 f0 fb 
+62 f1 e7 61 
+d9 4c e8 d0 
+
+41 ed 43 db 
+4b f3 ed f8 
+48 f6 d1 46 
+44 e4 f4 eb 
+
+78 60 c0 fe 
+5d 43 e8 57 
+ef d3 fd d6 
+44 6f 4f 67 
+
+74 c3 dd db 
+56 c2 fe e2 
+68 5a 50 f8 
+c4 51 79 51 
+
+eb 61 64 ca 
+c0 df e4 f5 
+d9 5a c3 fb 
+6b 7d df 5d 
+
+63 47 cc eb 
+51 58 e4 d2 
+cc ec ff e9 
+e5 69 c5 54 
+
+5c 77 ff 61 
+7c 7a fd f0 
+d8 cf 6d f0 
+f7 dc e8 e3 
+
+5a 72 4e db 
+5a 63 7d e6 
+59 50 6c 70 
+5a 50 41 dd 

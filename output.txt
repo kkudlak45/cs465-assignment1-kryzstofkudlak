@@ -1,0 +1,190 @@
+Preprocessing:
+WHILETHELOVERSANDTHEOLOGIANSHAVELONGMADEUSEOFSECRETMESSAGESTHEOVERWHELMINGUSEOFCRYPTOGRAPHYHASHISTORICALLYBEENINDIPLOMACYANDTHEMILITARY
+
+Substitution:
+YYGAXHNVLDCCYSSNFKFTHZUXIPUQOANENFLVFOJVUHLMMSWCTVRBXGYRGTZROEGVGIUWXZSZNVBQLOXCTPNIHUXRPWFFHSZIUKMGBQGCLNICLNANFZNAHAGTYPUBAHWMKCGITFE
+
+Padding:
+YYGA
+XHNV
+LDCC
+YSSN
+
+FKFT
+HZUX
+IPUQ
+OANE
+
+NFLV
+FOJV
+UHLM
+MSWC
+
+TVRB
+XGYR
+GTZR
+OEGV
+
+GIUW
+XZSZ
+NVBQ
+LOXC
+
+TPNI
+HUXR
+PWFF
+HSZI
+
+UKMG
+BQGC
+LNIC
+LNAN
+
+FZNA
+HAGT
+YPUB
+AHWM
+
+KCGI
+TFEA
+AAAA
+AAAA
+
+ShiftRows:
+YYGA
+HNVX
+CCLD
+NYSS
+
+FKFT
+ZUXH
+UQIP
+EOAN
+
+NFLV
+OJVF
+LMUH
+CMSW
+
+TVRB
+GYRX
+ZRGT
+VOEG
+
+GIUW
+ZSZX
+BQNV
+CLOX
+
+TPNI
+UXRH
+FFPW
+IHSZ
+
+UKMG
+QGCB
+ICLN
+NLNA
+
+FZNA
+AGTH
+UBYP
+MAHW
+
+KCGI
+FEAT
+AAAA
+AAAA
+
+Parity:
+59 59 47 41 
+48 4e 56 d8 
+c3 c3 cc 44 
+4e 59 53 53 
+
+c6 4b c6 d4 
+5a 55 d8 48 
+55 d1 c9 50 
+c5 cf 41 4e 
+
+4e c6 cc 56 
+cf ca 56 c6 
+cc 4d 55 48 
+c3 4d 53 d7 
+
+d4 56 d2 42 
+47 59 d2 d8 
+5a d2 47 d4 
+56 cf c5 47 
+
+47 c9 55 d7 
+5a 53 5a d8 
+42 d1 4e 56 
+c3 cc cf d8 
+
+d4 50 4e c9 
+55 d8 d2 48 
+c6 c6 50 d7 
+c9 48 53 5a 
+
+55 4b 4d 47 
+d1 47 c3 42 
+c9 c3 cc 4e 
+4e cc 4e 41 
+
+c6 5a 4e 41 
+41 47 d4 48 
+55 42 59 50 
+4d 41 48 d7 
+
+4b c3 47 c9 
+c6 c5 41 d4 
+41 41 41 41 
+41 41 41 41 
+
+MixColumns:
+e7 fa eb e6 
+d9 c2 f7 75 
+5e 61 67 e4 
+fc d4 f5 f9 
+
+e9 77 6c 75 
+48 46 6c fa 
+62 ed 54 ee 
+cf dc c2 e3 
+
+d9 d2 7f 62 
+47 d3 cc ce 
+5c 41 c5 62 
+4c 4c ea c1 
+
+76 5a 50 64 
+e2 46 61 c9 
+dd fa da e0 
+d6 f4 69 44 
+
+e1 61 c5 48 
+f6 cb fc 5e 
+c7 6c d9 d0 
+4c 41 6e 47 
+
+43 5d f2 dc 
+e6 e2 52 61 
+56 c7 c9 da 
+7d 7e f6 6b 
+
+45 50 46 47 
+e2 57 d1 50 
+df de df 5a 
+7b da 44 47 
+
+4c 7e ea dd 
+f6 53 5e f6 
+fa 5a f0 cb 
+df 69 cf 6e 
+
+c7 c9 4d ee 
+5e d0 47 f8 
+cc 47 47 5c 
+d8 58 4b 57 
+
