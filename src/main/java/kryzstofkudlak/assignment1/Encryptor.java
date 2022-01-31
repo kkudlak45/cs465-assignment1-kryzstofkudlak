@@ -33,10 +33,12 @@ public class Encryptor {
 	}
 	
 	/**
+	 * Performs a substitution operation on each character in the given input string using a Vignere Cipher
+	 * 	along with the corresponding character.
 	 * 
-	 * @param key
-	 * @param input
-	 * @return
+	 * @param key - the key to encrypt the input with
+	 * @param input - the input to be encrypted
+	 * @return ciphertext after using a Vignere Cipher
 	 */
 	public String performSubstitution(String key, String input) {
 		List<Pair<Character, Character>> list = new LinkedList<Pair<Character, Character>>();
@@ -55,26 +57,41 @@ public class Encryptor {
 				.toString();
 	}
 	
+	/**
+	 * Creates a list of 4x4 blocks to represent the input string. This step also handles padding
+	 *  due to the way that the Block constructor works
+	 * 
+	 * @param input - the input string to transform into blocks
+	 */
 	public void performPaddingAndCreateBlocks(String input) {
 		int blockSize = Block.BLOCK_SIZE * Block.BLOCK_SIZE;
 		int blockCount = input.length() / blockSize; // # of blocks to create
 		
 		for (int i = 0; i < blockCount; i++) {
-			String stuffToAdd = input.substring(i*blockSize, (i+1)*blockSize);
+			String stuffToAdd = input.substring(i*blockSize, (i+1)*blockSize); // pull out a chunk of 16 chars
 			this.blocks.add(new Block(stuffToAdd));
 		}
-		String excess = input.substring(blockCount*blockSize);
+		String excess = input.substring(blockCount*blockSize); // pull out whatever's left over
 		this.blocks.add(new Block(excess));
 	}
 	
+	/**
+	 * This function calls shiftAllRows on every block in the list of blocks
+	 */
 	public void performShiftRows() {
 		this.blocks.forEach(block -> block.shiftAllRows());
 	}
 	
+	/**
+	 * This function calls setParity on every block in the list of blocks
+	 */
 	public void performParityBit() {
 		this.blocks.forEach(block -> block.setParity());
 	}
 	
+	/**
+	 * This function calls mixColumns on every block in the list of blocks
+	 */
 	public void performMixColumns() {
 		this.blocks.forEach(block -> block.mixColumns());
 	}
@@ -82,12 +99,23 @@ public class Encryptor {
 	
 	
 	
-	
+	/**
+	 * This function outputs all the blocks in the list of blocks by calling Block.printBlock()
+	 * 
+	 * @param output - the stream to send output to
+	 * @throws IOException
+	 */
 	public void printBlocks(OutputStream output) throws IOException {
 		for (Block block : this.blocks)
 			block.printBlock(output);
 	}
 	
+	/**
+	 * This function outputs all the blocks in the list of blocks in hex format by calling Block.printBlockAsHex()
+	 * 
+	 * @param output - the stream to send output to
+	 * @throws IOException
+	 */
 	public void printBlocksAsHex(OutputStream output) throws IOException {
 		for (Block block : this.blocks)
 			block.printBlockAsHex(output);
